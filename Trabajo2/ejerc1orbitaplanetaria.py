@@ -1,3 +1,5 @@
+#Creado por Edinson Gelvez
+
 G=6.67e-11
 M=1.989e30
 pi=3.1416

@@ -1,4 +1,4 @@
-#Creado por Edinson Gelvez
+#Edinson Gelvez
 
 import math as mt
 

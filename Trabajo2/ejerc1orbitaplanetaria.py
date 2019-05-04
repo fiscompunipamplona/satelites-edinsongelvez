@@ -1,4 +1,7 @@
-#Creado por Edinson Gelvez
+#Edinson Gelvez
+#Órbitas planetarias. A partir de la segunda Ley de Kepler, escriba un programa que calcule la posición 
+#y velocidad en el afelio, dada la posición y velocidad en el perihelio.
+
 
 G=6.67e-11
 M=1.989e30

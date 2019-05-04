@@ -1,4 +1,5 @@
 #Edinson Gelvez
+#Escriba un código que transforme de coordenadas polares a coordenadas cartesianas.
 
 import math as mt
 

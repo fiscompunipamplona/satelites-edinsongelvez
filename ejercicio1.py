@@ -70,7 +70,7 @@ rs=(((G*M*Ts**2)/(4*pi**2)))**1/3-R
 
 print("la altura para un día de 24h es:" ,rd*(1e-3))
 print("la altura para un día sideral 23.93h es:" ,rs*(1e-3))
-
+print("la diferencia en la altura es: ",(rd-rs)*(1e-3))
 
 
 
